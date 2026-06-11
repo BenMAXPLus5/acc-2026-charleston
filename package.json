@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "ILCA 6 Race Briefing — Atlantic Coast Championships, Charleston 2026",
   "scripts": {
-    "start": "serve -s . -l tcp://0.0.0.0:${PORT:-3000}"
+    "start": "serve . -l tcp://0.0.0.0:${PORT:-3000}"
   },
   "dependencies": {
     "serve": "^14.2.4"
