@@ -1,0 +1,8 @@
+{
+  "name": "acc-2026-charleston",
+  "version": "1.0.0",
+  "description": "ILCA 6 Race Briefing — Atlantic Coast Championships, Charleston 2026",
+  "scripts": {
+    "start": "npx serve -s . -l $PORT"
+  }
+}
